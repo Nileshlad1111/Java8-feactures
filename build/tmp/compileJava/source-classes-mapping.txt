@@ -1,0 +1,6 @@
+com/lambdaexpresion/MyInter.java
+ com.lambdaexpresion.MyInter
+com/lambdaexpresion/MyInterImp.java
+ com.lambdaexpresion.MyInterImp
+com/lambdaexpresion/Main.java
+ com.lambdaexpresion.Main
